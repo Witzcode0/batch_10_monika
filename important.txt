@@ -4,3 +4,10 @@ Password : Monika#128
 Username : monika-128
 
 github link : https://github.com/Witzcode0/batch_10_monika.git
+
+
+git command :
+-------------
+- git add . 
+- git commit -m "Type message here"
+- git push
