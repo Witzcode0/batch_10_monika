@@ -64,3 +64,21 @@ nums = [1,2,3,4,5]
 
 # nums = [1,1,2,43,1,4,1,3,1,3,54,76,87,45,34,56,76,8,10]
 # print(nums)
+
+nums = [1,2,3,4,5,4,5,6,3,5,4,4,5,6,7,7,7]
+new_obj = [6,7,8]
+# nums.append(new_obj)
+# nums.extend(new_obj)
+# nums.insert(1, new_obj)
+# print(nums.count(5))
+# print(nums)
+# nums.clear()
+# nums.pop()
+# nums.remove(7)
+# nums.remove(5)
+# print(nums)
+
+# l1 = [1,2]
+# l2 = [3,4]
+# print(l1 + l2)
+# print(l1*2)
