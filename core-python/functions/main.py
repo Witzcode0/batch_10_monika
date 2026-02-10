@@ -55,6 +55,19 @@
 # bill(pen=20, gold_milk=56, potato=35, thums_up=45)
 
 
-nums = [1,2,3,4,5]
-nums_square = list(map(lambda num: num**2, nums ))
-print(nums_square)
+# nums = [1,2,3,4,5]
+# nums_square = list(map(lambda num: num**2, nums ))
+# print(nums_square)
+
+# num = 10
+# num = 20
+# print(num)
+
+# num = 10 # global variable
+
+# def outer():
+#     num = 20 # local variable
+#     print(num)
+
+# print(num)
+# outer()

@@ -1,0 +1,1 @@
+open("example.txt", "w")

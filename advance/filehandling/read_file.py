@@ -1,0 +1,12 @@
+file = open("example.txt", "r")
+# print(file.read())
+# print(file.read(10))
+# print(file.readline())
+# print(file.readline())
+# print(file.readline())
+# print(file.readline())
+# print(file.readline())
+# print(file.readline())
+
+print(file.readlines())
+file.close()
