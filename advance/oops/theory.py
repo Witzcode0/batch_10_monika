@@ -8,6 +8,6 @@
 #     - herarchical
 #     - hybrid
 # - abstraction
-# - polymorphsum
-#     - compile time poly. - static binding
-#     - runtime poly - dynamic binding
+# - polymorphisum
+#     - compile time poly. - static binding / method overloading
+#     - runtime poly - dynamic binding / method overriding
